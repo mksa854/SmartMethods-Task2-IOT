@@ -24,4 +24,3 @@ void loop() {
       myservo.write(pos);
     }
   }}
- //<!-- © Copyright 2022 - Written By Manar -->
